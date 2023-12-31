@@ -13,7 +13,7 @@ Here are some of the technologies I work with:
 - **PHP**: Skilled in developing dynamic web applications using PHP, with experience in frameworks like Laravel and Symfony.
 
 ## 🚀 Projects
-Coming soon
+- [Seven Segment Clock](https://hackaday.com/2021/08/11/a-whole-lot-of-stepper-motors-make-the-most-graceful-7-segment-displays/)
 <!--## 📈 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silverburd&show_icons=true&locale=en&layout=compact" alt="jeromehardaway" /></p>
 -->
