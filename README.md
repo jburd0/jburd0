@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm John Burd!
 
-<!--
-**jburd0/jburd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate software developer with a strong background in several programming languages. I enjoy building efficient and scalable applications, and I'm always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Here are some of the technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ruby**: Experienced in building robust Ruby applications, with a deep understanding of Rails framework.
+- **JavaScript/TypeScript**: Skilled in both front-end and back-end development using JS and TypeScript. Proficient with frameworks like React, Angular, and Node.js.
+- **C++**: Proficient in developing high-performance applications with a strong understanding of object-oriented programming principles.
+- **Go (Golang)**: Experienced in building highly concurrent and efficient services using Go.
+- **PHP**: Skilled in developing dynamic web applications using PHP, with experience in frameworks like Laravel and Symfony.
+
+## 🚀 Projects
+Coming soon
+
+## 🌐 Let's Connect
+Feel free to reach out to me!
+
+- [**LinkedIn**](https://www.linkedin.com/in/john-burd-7985b198/)
+- [**Email**](jburd@silverburd.com)
+- [**Twitter**](https://twitter.com/thejbburd)
+
+---
+
+Thank you for visiting my GitHub profile!
