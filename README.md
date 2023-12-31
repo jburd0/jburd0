@@ -14,7 +14,9 @@ Here are some of the technologies I work with:
 
 ## 🚀 Projects
 Coming soon
-
+<!--## 📈 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silverburd&show_icons=true&locale=en&layout=compact" alt="jeromehardaway" /></p>
+-->
 ## 🌐 Let's Connect
 Feel free to reach out to me!
 
