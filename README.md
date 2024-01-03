@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 Feel free to reach out to me!
 
 - [**LinkedIn**](https://www.linkedin.com/in/john-burd-7985b198/)
-- [**Email**](jburd@silverburd.com)
+- [**Email**](mailto:jburd@silverburd.com)
 - [**Twitter**](https://twitter.com/thejbburd)
 
 ---
