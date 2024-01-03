@@ -7,6 +7,7 @@ I'm a passionate software developer with a strong background in several programm
 Here are some of the technologies I work with:
 
 - **Ruby**: Experienced in building robust Ruby applications, with a deep understanding of Rails framework.
+- **Node**: Experienced in building high traffic node APIs.
 - **JavaScript/TypeScript**: Skilled in both front-end and back-end development using JS and TypeScript. Proficient with frameworks like React, Angular, and Node.js.
 - **C++**: Proficient in developing high-performance applications with a strong understanding of object-oriented programming principles.
 - **Go (Golang)**: Experienced in building highly concurrent and efficient services using Go.
